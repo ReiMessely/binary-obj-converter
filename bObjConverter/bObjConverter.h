@@ -12,10 +12,9 @@ public:
 private:
 	struct Double3
 	{
-		double x, y, z;
-		/*double x{ 0.f };
+		double x{ 0.f };
 		double y{ 0.f };
-		double z{ 0.f };*/
+		double z{ 0.f };
 	};
 	struct UInt3
 	{
